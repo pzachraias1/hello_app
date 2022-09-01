@@ -3,6 +3,6 @@ Rails.application.routes.draw do
   #https://guides.rubyonrails.org/routing.html
 
   # Defines the root path route ("/")
-  root "application#goodbye"
+  root "application#Aloha"
   
 end
